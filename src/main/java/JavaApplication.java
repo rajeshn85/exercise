@@ -1,3 +1,5 @@
+import abstractexercise.Car;
+
 public class JavaApplication {
 
     public int id;
@@ -10,6 +12,7 @@ public class JavaApplication {
 
     //Syntax [access modifier (private/protected/public/default)] [return data type] [method name](paramters...){}
     public static void main(String[] args) {
+
         int x;
         int y;
         y = 13;
